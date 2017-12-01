@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9251909a-740b-4b59-ae7e-15130e68f140" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/BonAppetit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/DayoftheProgrammer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/DivisiableSumPair.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/MigratoryBirds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/AppendandDelete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/CuttheSticks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/LibraryFine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/NonDivisibleSubset.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementation/SherlockandSquares.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,11 +49,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BonAppetit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BonAppetit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/implementation/BonAppetit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppendandDelete.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/implementation/AppendandDelete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="35" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SherlockandSquares.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/implementation/SherlockandSquares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="15" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="20" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LibraryFine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/implementation/LibraryFine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="31" column="15" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="31" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NonDivisibleSubset.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/implementation/NonDivisibleSubset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="15" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="26" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CuttheSticks.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/implementation/CuttheSticks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="30" column="15" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="30" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -101,6 +152,11 @@
         <option value="$PROJECT_DIR$/src/implementation/MigratoryBirds.java" />
         <option value="$PROJECT_DIR$/src/implementation/DayoftheProgrammer.java" />
         <option value="$PROJECT_DIR$/src/implementation/BonAppetit.java" />
+        <option value="$PROJECT_DIR$/src/implementation/AppendandDelete.java" />
+        <option value="$PROJECT_DIR$/src/implementation/SherlockandSquares.java" />
+        <option value="$PROJECT_DIR$/src/implementation/LibraryFine.java" />
+        <option value="$PROJECT_DIR$/src/implementation/NonDivisibleSubset.java" />
+        <option value="$PROJECT_DIR$/src/implementation/CuttheSticks.java" />
       </list>
     </option>
   </component>
@@ -185,15 +241,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BonAppetit">
-    <configuration name="BirthdayChocolate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CuttheSticks">
+    <configuration name="AppendandDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="implementation.BirthdayChocolate" />
+      <option name="MAIN_CLASS_NAME" value="implementation.AppendandDelete" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -205,14 +261,14 @@
       <module name="hr" />
       <envs />
     </configuration>
-    <configuration name="BonAppetit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CuttheSticks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="implementation.BonAppetit" />
+      <option name="MAIN_CLASS_NAME" value="implementation.CuttheSticks" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -224,14 +280,14 @@
       <module name="hr" />
       <envs />
     </configuration>
-    <configuration name="BreakingTheRecords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LibraryFine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="implementation.BreakingTheRecords" />
+      <option name="MAIN_CLASS_NAME" value="implementation.LibraryFine" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -243,14 +299,14 @@
       <module name="hr" />
       <envs />
     </configuration>
-    <configuration name="DayoftheProgrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NonDivisibleSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="implementation.DayoftheProgrammer" />
+      <option name="MAIN_CLASS_NAME" value="implementation.NonDivisibleSubset" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -262,14 +318,14 @@
       <module name="hr" />
       <envs />
     </configuration>
-    <configuration name="DivisiableSumPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SherlockandSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="implementation.DivisiableSumPair" />
+      <option name="MAIN_CLASS_NAME" value="implementation.SherlockandSquares" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -363,19 +419,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BreakingTheRecords" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BirthdayChocolate" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DivisiableSumPair" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DayoftheProgrammer" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BonAppetit" />
+      <item index="0" class="java.lang.String" itemvalue="Application.AppendandDelete" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SherlockandSquares" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LibraryFine" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NonDivisibleSubset" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CuttheSticks" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BonAppetit" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DayoftheProgrammer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DivisiableSumPair" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BirthdayChocolate" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BreakingTheRecords" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CuttheSticks" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NonDivisibleSubset" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LibraryFine" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SherlockandSquares" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AppendandDelete" />
       </list>
     </recent_temporary>
   </component>
@@ -393,22 +449,23 @@
       <workItem from="1511427974172" duration="1946000" />
       <workItem from="1511492405411" duration="4052000" />
       <workItem from="1511563900532" duration="1745000" />
-      <workItem from="1512085623971" duration="8000" />
+      <workItem from="1512085623971" duration="2191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9944000" />
+    <option name="totallyTimeSpent" value="12127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -425,7 +482,6 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -734,8 +790,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/implementation/BonAppetit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/AppendandDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="35" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/SherlockandSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="20" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/LibraryFine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="31" column="15" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="31" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/NonDivisibleSubset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="26" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/CuttheSticks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="15" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="30" selection-end-column="15" />
           <folding />
         </state>
       </provider>
